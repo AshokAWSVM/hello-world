@@ -25,7 +25,7 @@ input[type=text], input[type=password] {
   margin: 5px 0 22px 0;
   display: inline-block;
   border: none;
-  background: #pink;
+  background: pink;
 }
 
 input[type=text]:focus, input[type=password]:focus {
