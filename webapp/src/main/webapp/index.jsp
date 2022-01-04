@@ -15,7 +15,7 @@ body {
 /* Add padding to containers */
 .container {
   padding: 16px;
-  background-color: white;
+  background-color: green;
 }
 
 /* Full-width input fields */
@@ -25,7 +25,7 @@ input[type=text], input[type=password] {
   margin: 5px 0 22px 0;
   display: inline-block;
   border: none;
-  background: #f1f1f1;
+  background: #pink;
 }
 
 input[type=text]:focus, input[type=password]:focus {
@@ -35,7 +35,7 @@ input[type=text]:focus, input[type=password]:focus {
 
 /* Overwrite default styles of hr */
 hr {
-  border: 1px solid #f1f1f1;
+  border: 1px solid yellow;
   margin-bottom: 25px;
 }
 
